@@ -1,0 +1,28 @@
+General:
+UI: Invisible buttons on Chargen, misspellings.
+
+Modes:
+
+Normal: No known glitches.
+Ghost: Talk glitch on relog.
+DN(C): Shinigami glitches {Killing? Also talk glitch on relog.} (No Known Glitches in C-mode.)
+Zombie: No known glitches.
+
+Doppelganger: Corner case glitches cause doppels to lose their powers. (Set-A-Role Doppels lose powers sometimes, do regular ones?)
+Vampire: (Not a glitch) Fast blood drain could be a little slower, or scaled to round length.
+Witch: Stuncat glitch, move powers to person, not pipe.
+
+Temporary Solutions:
+DN: Replace with DNC for now.
+
+Additional Functionalities Sought:
+
+General:
+UI:
+Normal:
+Ghost:
+DN(C):
+Zombie:
+Doppelganger:
+Vampire:
+Witch:

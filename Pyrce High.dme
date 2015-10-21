@@ -1,0 +1,69 @@
+// DM Environment file for Pyrce High.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "audio"
+#define FILE_DIR "gfx"
+#define FILE_DIR "hair overlays"
+#define FILE_DIR "Icons"
+#define FILE_DIR "lighting"
+#define FILE_DIR "MH icons"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "3D sound.dm"
+#include "AdminSystem.dm"
+#include "AI.dm"
+#include "Ban stuff.dm"
+#include "Black Feather.dm"
+#include "bot.dm"
+#include "Chat_Box.dm"
+#include "ChatBubbles.dm"
+#include "CheckSubs.dm"
+#include "Containers.dm"
+#include "CreateChar.dm"
+#include "dmm_suite.dm"
+#include "dmp map loader.dm"
+#include "dynamic-lighting.dm"
+#include "footstep noise.dm"
+#include "Game Start and End.dm"
+#include "GameStarter.dm"
+#include "GhostMode.dm"
+#include "Host_Options.dm"
+#include "HostingWorld.dm"
+#include "hud.dm"
+#include "Lag Filter.dm"
+#include "Light Source.dm"
+#include "new lights.dm"
+#include "Player Names.dm"
+#include "premium.dm"
+#include "procs.dm"
+#include "reader.dm"
+#include "Save users.dm"
+#include "School Computer.dm"
+#include "Swap Maps.dm"
+#include "Test stuff.dm"
+#include "tex on screen new.dm"
+#include "Tsukihime.dm"
+#include "turf.dm"
+#include "Turfs.dm"
+#include "Unlocks.dm"
+#include "Vars.dm"
+#include "Verbs.dm"
+#include "voting.dm"
+#include "Weapons Attacks.dm"
+#include "World.dm"
+#include "writer.dm"
+#include "Zombie AI.dm"
+#include "Skinned.dmf"
+#include "Title.dmp"
+// END_INCLUDE
+
